@@ -1,0 +1,1 @@
+# MATLAB-Based-Modelling-and-Performance-Analysis-of-an-Automatic-Voltage-Regulator-AVR-
